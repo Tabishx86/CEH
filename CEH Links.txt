@@ -1,0 +1,115 @@
+Theory 
+https://github.com/imrk51/CEH-v11-Study-Guide
+https://github.com/ziyishen97
+https://github.com/SNGWN/CEH-Notes
+https://github.com/RafikGerges/CEHv10-Notes
+https://github.com/mav3ricka3/CEH
+https://github.com/t3rabyt3/CEH-v11-Summarized #
+https://github.com/acelakshitverma/CEH-Notes/blob/main/CEH%20Notes.pdf ##
+https://github.com/DigitalRevolution/Ethical_Hacking_StudyGuide/blob/master/CEHSTUDYGUIDE.pdf #
+https://github.com/miyurudassanayake/CEH-notes
+https://github.com/TheCyberpunker/CEH-Practical-Notes #
+https://github.com/foxbit19/ceh-notes
+https://github.com/21Krishanpal/CEH-Notes/tree/master/CEH-Notes/CEH-Notes-main #
+https://github.com/Ashish-bot/CEH-Notes-main ##
+https://github.com/alexbieber/CEHv11-CHEAT_CODE #
+https://scottymcraig.github.io/CEHv10StudyGuide/
+
+
+Practical /commands:
+https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master
+https://github.com/admarnelson/CEH-V11-Practical
+https://github.com/viny1ic/CEH_v11_ilabs #
+https://github.com/Adityaraj6?tab=repositories #
+https://github.com/Hobo-Hilly/CEH-V11 ##
+https://github.com/Optixal/CEHv10-Notes
+https://github.com/Brute-f0rce/CEH 
+https://github.com/Samson-DVS/CEH-Practical-Notes ###
+https://github.com/bsdrip/CEHv11-notes
+https://github.com/TheCyberpunker/CEH-Practical-Notes ###
+https://github.com/Shadow3059/CEH-Notes ###
+https://github.com/lordcrammy/CEH
+https://github.com/JupiterAlien/CEH-Practical-Study-Notes #
+https://github.com/rohit0x5/notes
+https://github.com/AnonX-Hunter/CEH-Prepration-Notes
+https://github.com/hackerhijeck/practicemyself_CEHv11
+https://github.com/Sid511/CEH-Practical-Notes
+https://github.com/cyjrk/ceh-10
+https://github.com/RohanCpunk/Ceh_Notes #
+https://github.com/Libco/ceh_notes/blob/master/poznamky.md
+https://github.com/iamsamirhq/CEH-Notes
+https://github.com/System-CTL/CEH_CHEAT_SHEET #
+https://github.com/ziyishen97/CEH-v11-Practical/blob/main/Practical%20Exam%20Notes.md
+https://blog.adithyanak.com/ceh-practical-notes ##
+https://github.com/sampritdas8/Ec-Council-CEH-Practical--Guide-For-Exam/blob/main/CEH(Practical).md
+https://github.com/nirangadh/ceh-practical #
+https://github.com/Rezkmike/CEH_Practical_Preparation ###
+https://github.com/sksdbest/CEH-Practical-Notes ##
+https://github.com/tb-sec/my-CEH-Note/blob/main/NOTES.md ###
+https://github.com/mrrobot1o1/CEH-Practical-Notes/blob/main/SHORT-NOTE.md ###
+https://github.com/takke2607/CEH_Practical_Notes ##
+https://github.com/thekillingjoke19/CEH-Practical-Notes
+https://github.com/kukkz/ceh-prac-notes/blob/main/notes.txt #
+https://github.com/rekkatz/MyNotesCEH #
+https://github.com/deFr0ggy/CEH-Practical-Preparation-Commands-Tools ##
+https://github.com/admarnelson/CEH-V11-Practical ##
+https://github.com/Aanish03/CEH_practical_must- ###
+https://github.com/jayateertha043/CEH-Practical-Prep ###
+https://github.com/crazypiedrulce/CEH ##
+https://github.com/hackerhijeck/practicemyself_CEHv11
+https://github.com/Yshmehtaa/CEHV11 #
+https://github.com/CEPHAL0/nepal_ceh_practical ###
+https://github.com/corradini/Ethical-Hacking-Labs ##
+https://github.com/SNGWN/CEH-Notes #
+https://github.com/cmuppin/CEH ###
+https://adithyanak.gitbook.io/ceh-practical/ ##
+
+https://github.com/mav3ricka3/CEH ##
+
+Medium :
+https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a #
+https://medium.com/techiepedia/certified-ethical-hacker-practical-exam-guide-dce1f4f216c9  #
+https://infosecwriteups.com/how-i-passed-ceh-practical-in-my-first-attempt-647926a3a0ac
+https://diarium.usal.es/pmgallardo/2020/12/13/tools-for-ceh-practical/
+https://book.thegurusec.com/certifications/certified-ethical-hacker-practical
+
+
+
+SAMPLE TEST :
+https://github.com/yeahhub/cehv9
+https://github.com/h4md153v63n/ceh_notes/tree/master/05_Quizs
+
+
+
+
+CTF:
+https://github.com/moulik-source/CTF-Difficulty
+https://github.com/yeahhub/ctf-tools
+( THM ROOMS : Pickle Rick, Brooklyn Nine Nine, Anthem, Agent Sudo CTF, Kenobi, Avengers, etc. These are my favourites, I even wrote walkthrougs explaining them (Pickle Rick, Kenobi, Vulnversity, Brooklyn Nine Nine).
+
+
+
+
+TOOLS
+https://github.com/joelindra/CEHv11-ALL-Tools
+
+Nmap
+Hydra
+Sqlmap
+Wpscan
+Nikto
+John
+Hashcat
+Metasploit
+Responder LLMNR
+Wireshark or Tcpdump
+Steghide
+OpenStego
+QuickStego
+Dirb
+Searchsploit
+Crunch
+Cewl
+Veracrypt
+Hashcalc
+Rainbow Crack
