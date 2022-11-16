@@ -1,0 +1,12 @@
+https://github.com/SebastianOpiyo/CEH-Master-Practical-Prep #
+https://github.com/ahwsou/Important-Commands-Tools-Pentesting #
+https://github.com/infovault-Ytube/CEH-Practical-Notes/blob/main/CEH%20Practical%20Notes-2.pdf ## pdf
+https://askmitra.com/ceh-practical-notes-and-tips/ ##
+https://github.com/Samson-DVS/CEH-Practical-Notes #
+https://github.com/nirangadh/ceh-practical
+https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/6-Malware/1-Using-njRAT.md #####
+https://github.com/Rezkmike/CEH_Practical_Preparation #
+
+
+
+thm labs https://nx7.me/posts/cehreview/
