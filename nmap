@@ -1,0 +1,14 @@
+sudo nmap 10.16.0.1/24 -sC -sV -A -O -oG scan.txt
+
+   scan a subnet :                     nmap 192.168.7.130/24
+   Scan a single Port                  nmap -p 22 192.168.7.130
+   Scan a range of ports               nmap -p 1-100 192.168.7.130
+   Scan all 65535 ports                nmap -p- 192.168.7.130
+   Aggressive scan                     nmap -A 192.168.7.130
+   To detect version of services       nmap -sV 192.168.7.130
+
+nmap -p 3306 -O -v 10.0.0.1/24 to find mysql port
+
+nmap -p 3389 -O -v 10.0.0.1/24 to find rdp port
+
+port for njRAT-5552
